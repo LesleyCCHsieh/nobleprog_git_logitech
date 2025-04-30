@@ -9,5 +9,7 @@ Demo item:
 - Git revert
 - Git commit amend
 - Git hooks
+- Git pull
+- Git push
 
 TBA...
