@@ -12,4 +12,5 @@ Demo item:
 - Git pull
 - Git push
 
+git hook is convenient~!
 TBA...
